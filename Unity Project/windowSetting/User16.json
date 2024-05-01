@@ -1,0 +1,119 @@
+{
+    "participant": [{
+        "position": [0.373069942, -0.216529727, 0.6454407],
+        "rotation": [15.0000582, 36.49392, 0],
+        "scale": [0.6360799, 0.6360799, 1],
+        "time": "Case 3 Path",
+        "transparency": 1,
+        "windowType": false
+    }, {
+        "position": [0.5050475, -0.340034574, 0.786833465],
+        "rotation": [15.0000124, 28.67887, 0],
+        "scale": [0.849384, 0.849384, 1],
+        "time": "Case 3 Head",
+        "transparency": 0.8625841,
+        "windowType": false
+    },{
+        "position": [0.5050475, -0.340034574, 0.786833465],
+        "rotation": [15.0000124, 28.67887, 0],
+        "scale": [0.849384, 0.849384, 1],
+        "time": "Case 4 Head",
+        "transparency": 0.8625841,
+        "windowType": false
+    },{
+        "position": [0.373069942, -0.216529727, 0.6454407],
+        "rotation": [15.0000582, 36.493927, 0],
+        "scale": [0.6360799, 0.6360799, 1],
+        "time": "Case 4 Path",
+        "transparency": 1,
+        "windowType": false
+    }, {
+        "position": [0.436273962, -0.448830426, 0.75768733],
+        "rotation": [15.0000582, 36.493927, 0],
+        "scale": [1.07688725, 1.07688725, 1],
+        "time": "Case 1 Path",
+        "transparency": 0.871554852,
+        "windowType": false
+    }, {
+        "position": [0.5038436, -0.483024538, 0.7220138],
+        "rotation": [15.00006, 36.4939346, 4.41945872e-7],
+        "scale": [1.07688725, 1.07688725, 1],
+        "time": "Case 1 Head",
+        "transparency": 0.871554852,
+        "windowType": false
+    }, {
+        "position": [0.232552141, -0.490821153, 0.7488492],
+        "rotation": [15.0000668, 18.7338657, 0],
+        "scale": [1.26931965, 1.26931965, 1],
+        "time": "Case 2 Head",
+        "transparency": 0.9129052,
+        "windowType": false
+    }, {
+        "position": [0.288449675, -0.4013694, 0.8538864],
+        "rotation": [15.0000639, 18.7338657, -2.20972964e-7],
+        "scale": [0.9977312, 0.9977312, 1],
+        "time": "Case 2 Path",
+        "transparency": 0.9129052,
+        "windowType": false
+    }],
+    "playerId": "User 15",
+    "presentation": [{
+        "position": [-0.5732104, -0.247925162, 0.7290772],
+        "rotation": [17.8443241, 321.893524, -4.48461122e-7],
+        "scale": [1.18101621, 1.18101621, 1],
+        "time": "Case 3 Path",
+        "transparency": 1,
+        "windowType": false
+    }, {
+        "position": [-0.371822625, -0.305972427, 0.761063933],
+        "rotation": [15.0000124, 335.864136, 0],
+        "scale": [1.13376236, 1.13376236, 1],
+        "time": "Case 3 Head",
+        "transparency": 0.7541549,
+        "windowType": false
+    },{
+        "position": [-0.371822625, -0.305972427, 0.761063933],
+        "rotation": [15.0000124, 335.864136, 0],
+        "scale": [1.13376236, 1.13376236, 1],
+        "time": "Case 4 Head",
+        "transparency": 0.7541549,
+        "windowType": false
+    }, {
+        "position": [-0.5732104, -0.247925162, 0.7290772],
+        "rotation": [17.844326, 320.8795, -4.48461066e-7],
+        "scale": [1.18101621, 1.18101621, 1],
+        "time": "Case 4 Path",
+        "transparency": 0.8068695,
+        "windowType": false
+    }, {
+        "position": [-0.0188431814, -0.425591052, 0.7999656],
+        "rotation": [17.8443546, 355.504456, -1.121153e-7],
+        "scale": [1.536546, 1.536546, 1],
+        "time": "Case 1 Path",
+        "transparency": 0.8068695,
+        "windowType": false
+    }, {
+        "position": [-0.00560373254, -0.451644719, 0.721501648],
+        "rotation": [23.6226273, 355.504456, -1.164824e-7],
+        "scale": [1.536546, 1.536546, 1],
+        "time": "Case 1 Head",
+        "transparency": 0.8068695,
+        "windowType": false
+    }, {
+        "position": [-0.1535352, -0.485139549, 0.7797912],
+        "rotation": [26.74294, 355.504456, 0],
+        "scale": [0.8038285, 0.8038285, 1],
+        "time": "Case 2 Head",
+        "transparency": 0.821351051,
+        "windowType": false
+    }, {
+        "position": [-0.141500726, -0.4030779, 0.858962357],
+        "rotation": [14.1073112, 348.760956, 0],
+        "scale": [1.16898143, 1.16898143, 1],
+        "time": "Case 2 Path",
+        "transparency": 0.8944702,
+        "windowType": false
+    }],
+    "time": [],
+    "velocity": []
+}

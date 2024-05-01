@@ -1,0 +1,147 @@
+{
+    "participant": [{
+        "position": [0.2397576, -0.7177573, 1.41180182],
+        "rotation": [20.3352737, 349.645477, 0],
+        "scale": [1.27970517, 1.27970517, 1],
+        "time": "Path",
+        "transparency": 0.89621973,
+        "windowType": false
+    }, {
+        "position": [-0.04183945, -0.7898641, 1.14280581],
+        "rotation": [20.3352947, 354.5615, 0],
+        "scale": [0.7183342, 0.7183342, 1],
+        "time": "Head",
+        "transparency": 0.6141417,
+        "windowType": false
+    },{
+        "position": [0.2397576, -0.7177573, 1.41180182],
+        "rotation": [20.3352737, 349.645477, 0],
+        "scale": [1.27970517, 1.27970517, 1],
+        "time": "Path",
+        "transparency": 0.89621973,
+        "windowType": false
+    }, {
+        "position": [-0.04183945, -0.7898641, 1.14280581],
+        "rotation": [20.3352947, 354.5615, 0],
+        "scale": [0.7183342, 0.7183342, 1],
+        "time": "Head",
+        "transparency": 0.6141417,
+        "windowType": false
+    },{
+        "position": [0.2397576, -0.7177573, 1.41180182],
+        "rotation": [20.3352737, 349.645477, 0],
+        "scale": [1.27970517, 1.27970517, 1],
+        "time": "Path",
+        "transparency": 0.89621973,
+        "windowType": false
+    }, {
+        "position": [-0.04183945, -0.7898641, 1.14280581],
+        "rotation": [20.3352947, 354.5615, 0],
+        "scale": [0.7183342, 0.7183342, 1],
+        "time": "Head",
+        "transparency": 0.6141417,
+        "windowType": false
+    },{
+        "position": [0.2397576, -0.7177573, 1.41180182],
+        "rotation": [20.3352737, 349.645477, 0],
+        "scale": [1.27970517, 1.27970517, 1],
+        "time": "Path",
+        "transparency": 0.89621973,
+        "windowType": false
+    }, {
+        "position": [-0.04183945, -0.7898641, 1.14280581],
+        "rotation": [20.3352947, 354.5615, 0],
+        "scale": [0.7183342, 0.7183342, 1],
+        "time": "Head",
+        "transparency": 0.6141417,
+        "windowType": false
+    }, {
+        "position": [-0.357332349, -0.310902476, 1.32682264],
+        "rotation": [1.6151824, 312.053, 5.33820632e-8],
+        "scale": [0.7674649, 0.7674649, 1],
+        "time": "Case 1 Path",
+        "transparency": 0.891878843,
+        "windowType": false
+    }, {
+        "position": [0.353001267, -0.115681052, 1.0722301],
+        "rotation": [1.61518216, 0.7437692, 0],
+        "scale": [0.7674649, 0.7674649, 1],
+        "time": "Case 1 Head",
+        "transparency": 0.891878843,
+        "windowType": false
+    }, {
+        "position": [0.175670028, -0.3143146, 1.462565],
+        "rotation": [1.61518157, 9.354353, 1.33455158e-8],
+        "scale": [1.16164708, 1.16164708, 1],
+        "time": "Case 2 Both",
+        "transparency": 0.891878843,
+        "windowType": false
+    }, {
+        "position": [0.175670028, -0.3143146, 1.462565],
+        "rotation": [1.61518157, 9.354353, 1.33455158e-8],
+        "scale": [1.16164708, 1.16164708, 1],
+        "time": "Case 2 Both",
+        "transparency": 0.891878843,
+        "windowType": false
+    },],
+    "playerId": "User1",
+    "presentation": [{
+        "position": [-0.438560784, -0.5804382, 1.28196526],
+        "rotation": [17.69685, 346.5417, -2.2404565e-7],
+        "scale": [2.63014078, 2.63014078, 1],
+        "time": "Path",
+        "transparency": 0.756570458,
+        "windowType": false
+    }, {
+        "position": [-0.0427370667, -0.4699897, 1.27671289],
+        "rotation": [17.6968842, 354.5777, -3.92079954e-7],
+        "scale": [2.291646, 2.291646, 1],
+        "time": "Head",
+        "transparency": 0.756570458,
+        "windowType": false
+    }, {
+        "position": [-0.438560784, -0.5804382, 1.28196526],
+        "rotation": [17.69685, 346.5417, -2.2404565e-7],
+        "scale": [2.63014078, 2.63014078, 1],
+        "time": "Path",
+        "transparency": 0.756570458,
+        "windowType": false
+    }, {
+        "position": [-0.0427370667, -0.4699897, 1.27671289],
+        "rotation": [17.6968842, 354.5777, -3.92079954e-7],
+        "scale": [2.291646, 2.291646, 1],
+        "time": "Head",
+        "transparency": 0.756570458,
+        "windowType": false
+    }, {
+        "position": [-0.438560784, -0.5804382, 1.28196526],
+        "rotation": [17.69685, 346.5417, -2.2404565e-7],
+        "scale": [2.63014078, 2.63014078, 1],
+        "time": "Path",
+        "transparency": 0.756570458,
+        "windowType": false
+    }, {
+        "position": [-0.0427370667, -0.4699897, 1.27671289],
+        "rotation": [17.6968842, 354.5777, -3.92079954e-7],
+        "scale": [2.291646, 2.291646, 1],
+        "time": "Head",
+        "transparency": 0.756570458,
+        "windowType": false
+    }, {
+        "position": [-0.438560784, -0.5804382, 1.28196526],
+        "rotation": [17.69685, 346.5417, -2.2404565e-7],
+        "scale": [2.63014078, 2.63014078, 1],
+        "time": "Path",
+        "transparency": 0.756570458,
+        "windowType": false
+    }, {
+        "position": [-0.0427370667, -0.4699897, 1.27671289],
+        "rotation": [17.6968842, 354.5777, -3.92079954e-7],
+        "scale": [2.291646, 2.291646, 1],
+        "time": "Head",
+        "transparency": 0.756570458,
+        "windowType": false
+    }, ],
+    "time": [],
+    "velocity": []
+}

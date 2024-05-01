@@ -1,0 +1,35 @@
+{
+    "participant": [{
+        "position": [0.201999992, -0.322000027, 0.8],
+        "rotation": [14.9999971, 0, 0],
+        "scale": [1.05982614, 1.0598259, 1.00000012],
+        "time": "15:59:26",
+        "transparency": 1,
+        "windowType": false
+    }, {
+        "position": [-0.0118184388, -0.640813351, 0.8085669],
+        "rotation": [15.0000181, 355.630341, -5.524322e-8],
+        "scale": [0.8674382, 0.867437959, 1.00000012],
+        "time": "15:59:46",
+        "transparency": 1,
+        "windowType": false
+    }],
+    "playerId": "1229_155913",
+    "presentation": [{
+        "position": [-0.319972128, -0.321070671, 0.8],
+        "rotation": [0, 348.072, 0],
+        "scale": [1.66921854, 1.66921854, 1.00000012],
+        "time": "15:59:26",
+        "transparency": 1,
+        "windowType": false
+    }, {
+        "position": [-0.0548642576, -0.352880239, 0.8966434],
+        "rotation": [0, 348.072, 0],
+        "scale": [1.66921854, 1.66921854, 1.00000012],
+        "time": "15:59:46",
+        "transparency": 1,
+        "windowType": false
+    }],
+    "time": [],
+    "velocity": []
+}

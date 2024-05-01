@@ -1,0 +1,150 @@
+{
+    "layouts":[
+        {
+            "posType": 1,
+            "anchorMode": false,
+            "position": [-0.3313274607,	0.02678678418,	0.8596003652],
+            "rotation": [358.59259,338.921173,0],
+            "scale": 1.0
+        }, {
+            "posType": 2,
+            "anchorMode": false,
+            "position": [0.08311274275,	0.3433826566,	0.9255147576],
+            "rotation": [339.90271,5.13148832,0],
+            "scale": 1.0
+        }, {
+            "posType": 3,
+            "anchorMode": false,
+            "position": [-0.352999985,-0.418171614,0.791999996],
+            "rotation": [25.8493118,338.714844,0],
+            "scale": 1.0
+        }, {
+            "posType": 4,
+            "anchorMode": false,
+            "position": [0.003439630704,-0.3796559916,	0.7274712416],
+            "rotation": [27.2115631,0.270902842,0],
+            "scale": 1.0
+        }, {
+            "posType": 5,
+            "anchorMode": false,
+            "position": [-0.6896119118,	-0.1352171898,	-0.1352171898],
+            "rotation": [12.3638992,258.906342,0],
+            "scale": 0.84974
+        }, {
+            "posType": 1,
+            "anchorMode": true,
+            "position": [-0.2199393362,	0.02419704106,	0.7480593026],
+            "rotation": [3.49047685,351.572388,4.26724386],
+            "scale": 0.78
+        }, {
+            "posType": 2,
+            "anchorMode": true,
+            "position": [0.0900000036,0.187000006,0.981000006],
+            "rotation": [345.391876,5.73627615,1.45526636],
+            "scale": 0.8409
+        }, {
+
+            "posType": 3,
+            "anchorMode": true,
+            "position": [-0.298000008,-0.328999996,0.740999997],
+            "rotation": [13.4660635,339.604523,0.313107401],
+            "scale": 0.7345899
+        }, {
+            "posType": 4,
+            "anchorMode": true,
+            "position": [0.0008577576484,-0.4369882118,	0.8849672704],
+            "rotation": [26.2797031,0.0555372201,359.25058],
+            "scale": 1.0
+        }
+    ],
+    "meetings":[
+        {
+            "meetingType": 1,
+            "environmentType": false,
+            "presentationShow": true,
+            
+            "presentationScale": 1.772541564,
+            "presentationOpacity": 1.0,
+            "participantShow": true,
+            "participantPosition": [0.444999993,-0.104000002,0],
+            "participantScale": 0.8010763053,
+            "partcipantOpacity": 1.0
+        }, {
+            "meetingType": 2,
+            "environmentType": false,
+            "presentationShow": true,
+            
+            "presentationScale": 1.431641582,
+            "presentationOpacity": 1.0,
+            "participantShow": true,
+            "participantPosition": [0.400000006,0,0],
+            "participantScale": 0.9694802442,
+            "partcipantOpacity": 1.0
+        }, {
+            "meetingType": 3,
+            "environmentType": false,
+            "presentationShow": true,
+            
+            "presentationScale": 1.772541564,
+            "presentationOpacity": 1.0,
+            "participantShow": false,
+            "participantPosition": [0.0, 0.0, 0.0],
+            "participantScale": 0.8010763053,
+            "partcipantOpacity": 1.0
+        }, {
+            "meetingType": 4,
+            "environmentType": false,
+            "presentationShow": false,
+            
+            "presentationScale": 1.431641582,
+            "presentationOpacity": 1.0,
+            "participantShow": true,
+            "participantPosition": [0.0, 0.0, 0.0],
+            "participantScale": 0.9694802442,
+            "partcipantOpacity": 1.0
+        }, {
+            "meetingType": 1,
+            "environmentType": true,
+            "presentationShow": true,
+            
+            "presentationScale": 1.484044911,
+            "presentationOpacity": 0.75,
+            "participantShow": true,
+            "participantPosition": [0.39199999,-0.0719999969,0],
+            "participantScale": 0.7936586082,
+            "partcipantOpacity": 0.9
+        }, {
+            "meetingType": 2,
+            "environmentType": true,
+            "presentationShow": true,
+            
+            "presentationScale": 1.362148936,
+            "presentationOpacity": 0.75,
+            "participantShow": true,
+            "participantPosition": [0.375,0,0],
+            "participantScale": 0.8480926645,
+            "partcipantOpacity": 0.9
+        }, {
+            "meetingType": 3,
+            "environmentType": true,
+            "presentationShow": true,
+            
+            "presentationScale": 1.484044911,
+            "presentationOpacity": 0.75,
+            "participantShow": false,
+            "participantPosition": [0.0, 0.0, 0.0],
+            "participantScale": 0.7936586082,
+            "partcipantOpacity": 0.9
+        }, {
+            "meetingType": 4,
+            "environmentType": true,
+            "presentationShow": false,
+            "presentationScale": 1.362148936,
+            "presentationOpacity": 0.75,
+            "participantShow": true,
+            "participantPosition": [0.0, 0.0, 0.0],
+            "participantScale": 0.88,
+            "partcipantOpacity": 0.9
+        }
+    ]
+}

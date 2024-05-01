@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/WorkSpace/Gesture VR Passthrough.unity
+    guid: cc24387472aa75345a3d7306f760d171
+  - enabled: 0
+    path: Assets/Vuplex/WebView/Demos/Scenes/4_CanvasWorldSpaceDemo.unity
+    guid: 62f02fda5217b49c3b226481915f5292
+  - enabled: 0
+    path: Assets/WorkSpace/Vuplex Browser.unity
+    guid: 9b9b4993e93d2b84a91aa4f30741c972
+  - enabled: 0
+    path: Assets/WorkSpace/Summative Study AR.unity
+    guid: 128f04d485174d143889a0bb38524dc5
+  - enabled: 0
+    path: Assets/WorkSpace/995.unity
+    guid: 094a70ea2c8b3564cb7abd00387c78f1
+  - enabled: 0
+    path: Assets/WorkSpace/995_0823.unity
+    guid: 9368952944d0f9d48a33b6bf95e5803c
+  - enabled: 0
+    path: Assets/WorkSpace/Summative Study Phone.unity
+    guid: 3c4621e51331cb047beb0d0f7d629c83
+  - enabled: 0
+    path: Assets/WorkSpace/Summative Study AR_0912_button.unity
+    guid: d8dc22db60d030e48a16b61f7b38e3a1
+  - enabled: 1
+    path: Assets/WorkSpace/Gesture VR Passthrough 1.unity
+    guid: 80281e4f4cf20364b8ba004e7979d232
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 6f63e0972a579ac4281e8002cc84efb5,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 21c788be2e5b1dc418dff66d859e380d,
+      type: 2}

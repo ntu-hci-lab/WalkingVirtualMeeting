@@ -25,6 +25,8 @@ Unity Project/Assets/Plugins/Editor/JetBrains*
 Unity Project/Assets/Oculus*
 Unity Project/Assets/Vuplex*
 Unity Project/Assets/POLYGON city pack*
+Unity Project/Library*
+Unity Project/Build*
 
 # Visual Studio cache directory
 .vs/

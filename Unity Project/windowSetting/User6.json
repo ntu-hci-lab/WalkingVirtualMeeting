@@ -1,0 +1,77 @@
+{
+    "participant": [{
+        "position": [-0.222962886, -0.259315729, 0.6827411],
+        "rotation": [16.0460339, 345.8837, -2.22096276e-7],
+        "scale": [0.6763827, 0.6763825, 1.00000012],
+        "time": "Case 1 Path",
+        "transparency": 0.862766,
+        "windowType": false
+    },  {
+        "position": [-0.1073925, -0.2266849, 0.7179167],
+        "rotation": [13.18101, 358.017456, 2.74023524e-8],
+        "scale": [0.62827605, 0.62827605, 1.00000012],
+        "time": "Case 1 Head",
+        "transparency": 0.8100033,
+        "windowType": false
+    }, {
+        "position": [-0.2624493, -0.198245332, 0.737504959],
+        "rotation": [13.4367142, 333.53894, 0],
+        "scale": [0.813894451, 0.813894451, 1.00000012],
+        "time": "Case 2 Both",
+        "transparency": 0.8100033,
+        "windowType": false
+    }, {
+        "position": [-0.187124074, 0.199476, 0.842690468],
+        "rotation": [344.323578, 359.772125, 1.73194987e-8],
+        "scale": [0.3604896, 0.360489368, 1.00000012],
+        "time": "Case 3 Both",
+        "transparency": 0.4427564,
+        "windowType": false
+    }, {
+        "position": [0.09752947, 0.2565323, 0.9576802],
+        "rotation": [350.840118, 0, 0],
+        "scale": [0.780458331, 0.7804581, 1.00000012],
+        "time": "Case 4 Both",
+        "transparency": 0.7035823,
+        "windowType": false
+    }],
+    "playerId": "User 6",
+    "presentation": [ {
+        "position": [-0.23650673, -0.007758856, 0.7033803],
+        "rotation": [359.685516, 348.628876, 0],
+        "scale": [1.21368432, 1.21368432, 1.00000012],
+        "time": "Case 1 Path",
+        "transparency": 0.726443052,
+        "windowType": false
+    }, {
+        "position": [-0.1476947, 0.02588411, 0.7277148],
+        "rotation": [358.9388, 355.776154, 0],
+        "scale": [1.48020029, 1.48020029, 1.00000012],
+        "time": "Case 1 Head",
+        "transparency": 0.741968155,
+        "windowType": false
+    }, {
+        "position": [-0.292183965, 0.0225099716, 0.7684038],
+        "rotation": [2.23132753, 334.7411, 3.738094e-7],
+        "scale": [0.9945607, 0.9945607, 1.00000012],
+        "time": "Case 2 Both",
+        "transparency": 0.741968155,
+        "windowType": false
+    }, {
+        "position": [0.0553093776, 0.25470376, 0.824878],
+        "rotation": [346.865936, 357.931122, 0],
+        "scale": [0.9321952, 0.9321952, 1.00000012],
+        "time": "Case 3 Both",
+        "transparency": 0.489198685,
+        "windowType": false
+    }, {
+        "position": [0.110916108, 0.432061553, 1.02615154],
+        "rotation": [349.277161, 8.980866, -5.430916e-8],
+        "scale": [0.8927842, 0.8927842, 1.00000012],
+        "time": "Case 4 Both",
+        "transparency": 0.7082906,
+        "windowType": false
+    }],
+    "time": [],
+    "velocity": []
+}

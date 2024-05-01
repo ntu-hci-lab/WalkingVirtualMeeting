@@ -1,0 +1,35 @@
+{
+    "participant": [{
+        "position": [0.2397576, -0.7177573, 1.41180182],
+        "rotation": [20.3352737, 349.645477, 0],
+        "scale": [1.27970517, 1.27970517, 1],
+        "time": "Path",
+        "transparency": 0.89621973,
+        "windowType": false
+    }, {
+        "position": [-0.04183945, -0.7898641, 1.14280581],
+        "rotation": [20.3352947, 354.5615, 0],
+        "scale": [0.7183342, 0.7183342, 1],
+        "time": "Head",
+        "transparency": 0.6141417,
+        "windowType": false
+    }],
+    "playerId": "User 1",
+    "presentation": [{
+        "position": [-0.438560784, -0.5804382, 1.28196526],
+        "rotation": [17.69685, 346.5417, -2.2404565e-7],
+        "scale": [2.63014078, 2.63014078, 1],
+        "time": "Path",
+        "transparency": 0.756570458,
+        "windowType": false
+    }, {
+        "position": [-0.0427370667, -0.4699897, 1.27671289],
+        "rotation": [17.6968842, 354.5777, -3.92079954e-7],
+        "scale": [2.291646, 2.291646, 1],
+        "time": "Head",
+        "transparency": 0.756570458,
+        "windowType": false
+    }],
+    "time": [],
+    "velocity": []
+}

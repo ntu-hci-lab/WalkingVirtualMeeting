@@ -1,0 +1,115 @@
+Factor     	Window Type    		Value       	P-value	sig
+Environment	All            		Size        	0.03213	*
+Environment	All            		Distance    	0.83122	
+Environment	All            		Theta       	0.65783	
+Environment	All            		Phi         	0.00017	***
+Environment	All            		Transparency	0.00000	***
+Environment	Shared Screen  		Size        	0.00771	** 
+Environment	Shared Screen  		Distance    	0.93481	   
+Environment	Shared Screen  		Theta       	0.21027	   
+Environment	Shared Screen  		Phi         	0.00202	** 
+Environment	Shared Screen  		Transparency	0.22065	   
+Environment	Speaker's Video		Size        	0.86033	   
+Environment	Speaker's Video		Distance    	0.74384	   
+Environment	Speaker's Video		Theta       	0.50266	   
+Environment	Speaker's Video		Phi         	0.02639	*  
+Environment	Speaker's Video		Transparency	0.00000	***
+
+Factor     	Window Type    		Value       	P-value	sig
+Meeting Format	All            		Size        	0.09339	
+Meeting Format	All            		Distance    	0.48336	
+Meeting Format	All            		Theta       	0.04880	*
+Meeting Format	All            		Phi         	0.90084	
+Meeting Format	All            		Transparency	0.61523	
+Meeting Format	Shared Screen  		Size        	0.00040	***
+Meeting Format	Shared Screen  		Distance    	0.26197	   
+Meeting Format	Shared Screen  		Theta       	0.40315	   
+Meeting Format	Shared Screen  		Phi         	0.98311	   
+Meeting Format	Shared Screen  		Transparency	0.04341	*  
+Meeting Format	Speaker's Video		Size        	0.00239	** 
+Meeting Format	Speaker's Video		Distance    	0.96849	   
+Meeting Format	Speaker's Video		Theta       	0.09369	   
+Meeting Format	Speaker's Video		Phi         	0.91460	   
+Meeting Format	Speaker's Video		Transparency	0.00448	** 
+
+Factor     	Window Type    		Value       	P-value	sig
+Window Anchor	All            		Size        	0.20822	
+Window Anchor	All            		Distance    	0.00051	***
+Window Anchor	All            		Theta       	0.78855	
+Window Anchor	All            		Phi         	0.00000	***
+Window Anchor	All            		Transparency	0.00508	**
+Window Anchor	Shared Screen  		Size        	0.05058	   
+Window Anchor	Shared Screen  		Distance    	0.04834	*  
+Window Anchor	Shared Screen  		Theta       	0.15443	   
+Window Anchor	Shared Screen  		Phi         	0.00027	***
+Window Anchor	Shared Screen  		Transparency	0.19790	   
+Window Anchor	Speaker's Video		Size        	0.29486	   
+Window Anchor	Speaker's Video		Distance    	0.00383	** 
+Window Anchor	Speaker's Video		Theta       	0.37183	   
+Window Anchor	Speaker's Video		Phi         	0.00299	** 
+Window Anchor	Speaker's Video		Transparency	0.02089	* 
+
+
+Factor     	Window Anchor	Window Type    		Value       	P-value	sig
+Environment	Path Anchor  	All            		Size        	0.16553	
+Environment	Path Anchor  	All            		Distance    	0.26377	
+Environment	Path Anchor  	All            		Theta       	0.48808	
+Environment	Path Anchor  	All            		Phi         	0.00160	**
+Environment	Path Anchor  	All            		Transparency	0.00272	**
+Environment	Head Anchor  	All            		Size        	0.08428	
+Environment	Head Anchor  	All            		Distance    	0.35952	
+Environment	Head Anchor  	All            		Theta       	0.14288	
+Environment	Head Anchor  	All            		Phi         	0.04886	*
+Environment	Head Anchor  	All            		Transparency	0.00019	***
+Environment	Path Anchor  	Shared Screen  		Size        	0.0502	   
+Environment	Path Anchor  	Shared Screen  		Distance    	0.5387	   
+Environment	Path Anchor  	Shared Screen  		Theta       	0.7499	   
+Environment	Path Anchor  	Shared Screen  		Phi         	0.0179	*  
+Environment	Path Anchor  	Shared Screen  		Transparency	0.6389	   
+Environment	Path Anchor  	Speaker's Video		Size        	0.6653	   
+Environment	Path Anchor  	Speaker's Video		Distance    	0.3505	   
+Environment	Path Anchor  	Speaker's Video		Theta       	0.1648	   
+Environment	Path Anchor  	Speaker's Video		Phi         	0.0382	*  
+Environment	Path Anchor  	Speaker's Video		Transparency	0.0007	***
+Environment	Head Anchor  	Shared Screen  		Size        	0.0577	   
+Environment	Head Anchor  	Shared Screen  		Distance    	0.4237	   
+Environment	Head Anchor  	Shared Screen  		Theta       	0.1183	   
+Environment	Head Anchor  	Shared Screen  		Phi         	0.0775	   
+Environment	Head Anchor  	Shared Screen  		Transparency	0.2043	   
+Environment	Head Anchor  	Speaker's Video		Size        	0.7548	   
+Environment	Head Anchor  	Speaker's Video		Distance    	0.5642	   
+Environment	Head Anchor  	Speaker's Video		Theta       	0.5805	   
+Environment	Head Anchor  	Speaker's Video		Phi         	0.3015	   
+Environment	Head Anchor  	Speaker's Video		Transparency	0.0003	***
+
+Factor     	Window Anchor	Window Type    		Value       	P-value	sig
+Meeting Format	Path Anchor  	All            		Size        	0.05181	
+Meeting Format	Path Anchor  	All            		Distance    	0.96624	
+Meeting Format	Path Anchor  	All            		Theta       	0.45245	
+Meeting Format	Path Anchor  	All            		Phi         	0.94095	
+Meeting Format	Path Anchor  	All            		Transparency	0.94937	
+Meeting Format	Head Anchor  	All            		Size        	0.69813	
+Meeting Format	Head Anchor  	All            		Distance    	0.37558	
+Meeting Format	Head Anchor  	All            		Theta       	0.01454	*
+Meeting Format	Head Anchor  	All            		Phi         	0.74768	
+Meeting Format	Head Anchor  	All            		Transparency	0.40774	
+Meeting Format	Path Anchor  	Shared Screen  		Size        	0.0017	** 
+Meeting Format	Path Anchor  	Shared Screen  		Distance    	0.5034	   
+Meeting Format	Path Anchor  	Shared Screen  		Theta       	0.7610	   
+Meeting Format	Path Anchor  	Shared Screen  		Phi         	0.6926	   
+Meeting Format	Path Anchor  	Shared Screen  		Transparency	0.0736	   
+Meeting Format	Path Anchor  	Speaker's Video		Size        	0.1285	   
+Meeting Format	Path Anchor  	Speaker's Video		Distance    	0.6071	   
+Meeting Format	Path Anchor  	Speaker's Video		Theta       	0.5296	   
+Meeting Format	Path Anchor  	Speaker's Video		Phi         	0.8192	   
+Meeting Format	Path Anchor  	Speaker's Video		Transparency	0.0844	   
+Meeting Format	Head Anchor  	Shared Screen  		Size        	0.0593	   
+Meeting Format	Head Anchor  	Shared Screen  		Distance    	0.3758	   
+Meeting Format	Head Anchor  	Shared Screen  		Theta       	0.2192	   
+Meeting Format	Head Anchor  	Shared Screen  		Phi         	0.6682	   
+Meeting Format	Head Anchor  	Shared Screen  		Transparency	0.3078	   
+Meeting Format	Head Anchor  	Speaker's Video		Size        	0.0045	** 
+Meeting Format	Head Anchor  	Speaker's Video		Distance    	0.7151	   
+Meeting Format	Head Anchor  	Speaker's Video		Theta       	0.0386	*  
+Meeting Format	Head Anchor  	Speaker's Video		Phi         	0.9584	   
+Meeting Format	Head Anchor  	Speaker's Video		Transparency	0.0218	*

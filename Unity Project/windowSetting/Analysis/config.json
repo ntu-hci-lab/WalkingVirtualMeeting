@@ -1,0 +1,12 @@
+{
+    "websites": [
+        {
+            "name": "東京",
+            "url": "https://ticket.pia.jp/piasp/ticketInformation.do?eventCd=2336820&rlsCd=001&x=117&y=17",
+            "target_element": {
+                "tag": "th",
+                "class": "w83"
+            }
+        }
+    ]
+}

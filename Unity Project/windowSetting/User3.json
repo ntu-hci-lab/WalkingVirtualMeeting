@@ -1,0 +1,89 @@
+{
+    "participant": [ {
+        "position": [0.169426665, -0.3129445, 0.489902973],
+        "rotation": [25.5277863, 23.9934158, 0],
+        "scale": [0.5402248, 0.5402248, 1],
+        "time": "Case 1 Head",
+        "transparency": 1,
+        "windowType": false
+    }, {
+        "position": [0.09676148, -0.292948574, 0.536889136],
+        "rotation": [26.0607166, 5.18910933, 1.1880023e-7],
+        "scale": [0.5, 0.5, 1],
+        "time": "Case 1 Path",
+        "transparency": 1,
+        "windowType": false
+    }, {
+        "position": [0.133664489, -0.277628243, 0.510193467],
+        "rotation": [25.527792, 12.90591, -2.365348e-7],
+        "scale": [0.7286321, 0.7286321, 1],
+        "time": "Case 2 Both",
+        "transparency": 1,
+        "windowType": false
+    },{
+        "position": [0.21304974, -0.424478531, 0.7803955],
+        "rotation": [17.70947, 9.294674, 2.24061381e-7],
+        "scale": [0.9078646, 0.9078646, 1],
+        "time": "Case 3 Path",
+        "transparency": 0.568939,
+        "windowType": false
+    }, {
+        "position": [0.4039041, -0.499630421, 0.6373895],
+        "rotation": [18.1512623, 9.294678, -1.12310566e-7],
+        "scale": [0.9078646, 0.9078646, 1],
+        "time": "Case 3 Head",
+        "transparency": 0.568939,
+        "windowType": false
+    },  {
+        "position": [0.180501521, -0.5876121, 0.880459],
+        "rotation": [20.85701, 6.1867094, 0],
+        "scale": [0.7289629, 0.7289629, 1],
+        "time": "Case 4 Both",
+        "transparency": 1,
+        "windowType": false
+    }],
+    "playerId": "User 3",
+    "presentation": [{
+        "position": [-0.134597927, -0.296635628, 0.4695322],
+        "rotation": [26.3009319, 333.247131, -4.76181469e-7],
+        "scale": [0.934571266, 0.934571266, 1],
+        "time": "Case 1 Head",
+        "transparency": 0.77774334,
+        "windowType": false
+    }, {
+        "position": [-0.219361871, -0.253041238, 0.447363168],
+        "rotation": [22.1983242, 324.386475, 4.61059841e-7],
+        "scale": [0.93926096, 0.93926096, 1],
+        "time": "Case 1 Path",
+        "transparency": 0.77774334,
+        "windowType": false
+    },{
+        "position": [-0.18248795, -0.2652606, 0.449928761],
+        "rotation": [26.3009319, 348.10376, 0],
+        "scale": [0.874824166, 0.874824166, 1],
+        "time": "Case 2 Both",
+        "transparency": 0.77774334,
+        "windowType": false
+    },{
+        "position": [-0.138350785, -0.405219078, 0.7071108],
+        "rotation": [21.534462, 351.1921, -1.1473022e-7],
+        "scale": [1.222142, 1.222142, 1],
+        "time": "Case 3 Path",
+        "transparency": 0.832775354,
+        "windowType": false
+    }, {
+        "position": [0.0537113547, -0.5123577, 0.799120545],
+        "rotation": [26.0152073, 4.22734, 0],
+        "scale": [1.222142, 1.222142, 1],
+        "time": "Case 3 Head",
+        "transparency": 0.832775354,
+        "windowType": false
+    }, {
+        "position": [-0.0530887246, -0.6051378, 1.33251894],
+        "rotation": [29.293644, 2.78811526, 1.22369926e-7],
+        "scale": [1.9835937, 1.9835937, 1],
+        "time": "Case 4 Both",
+        "transparency": 0.5657718,
+        "windowType": false
+    }]
+}

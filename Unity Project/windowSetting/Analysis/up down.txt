@@ -1,0 +1,11 @@
+up down 分布：
+全部都是 up (4)：6, 10, 12, 16
+全部都是 down (9)：1, 2, 3, 4, 5, 7, 8, 9, 11, 15
+其他
+2 listening + path up(設計理念是左邊) 其他都是 down
+14 high up 其他都是 down
+13 極度不規則
+13 low listen up
+13 low discuss down
+13 high listen up
+13 high discuss up

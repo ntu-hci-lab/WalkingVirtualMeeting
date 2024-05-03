@@ -1,5 +1,5 @@
 # WalkingVirtualMeeting
-
+Chiao-Ju Chang, Yu Lun Hsu, Wei Tian Mireille Tan, Yu-Cheng Chang, Pin Chun Lu, Yu Chen, Yi-Han Wang, and Mike Y. Chen.
 
 ### Environment
 + Unity 2021.3.22f1

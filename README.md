@@ -7,7 +7,7 @@ We conducted this system to explore augmented reality (AR) interface design for 
 
 ## System Functions
 We provide following functions to design and use the user interface while walking:
-+ **Gesture**: adjust window properties (加圖)(家宇)??
++ **Gesture**: adjust window properties <img src="https://imgur.com/a18LCzT.png" width="700">
     + **Pinch and drag** for **Position**: repositioning the window
     + **Size**: Pinch fingers with two hands and pull the hands apart to resize the window
     + **Opacity**: Increase or decrease the opacity of the window by extending the index finger and moving it up or down

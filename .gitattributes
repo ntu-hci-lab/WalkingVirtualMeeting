@@ -1,1 +1,3 @@
-Unity Project/* linguist-language=C#
+Unity Project/**/*.cs linguist-language=C#
+Unity Project/**/*.json linguist-vendored
+Unity Project/**/*.asset linguist-vendored

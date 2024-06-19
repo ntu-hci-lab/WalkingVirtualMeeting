@@ -1,3 +1,18 @@
 Unity Project/**/*.cs linguist-language=C#
+
+Unity Project/**/* linguist-vendored
 Unity Project/**/*.json linguist-vendored
 Unity Project/**/*.asset linguist-vendored
+Unity Project/**/*.log linguist-vendored
+Unity Project/**/*.meta linguist-vendored
+Unity Project/**/*.prefab linguist-vendored
+Unity Project/**/*.png linguist-vendored
+Unity Project/**/*.mp4 linguist-vendored
+Unity Project/**/*.mat linguist-vendored
+Unity Project/**/*.unity linguist-vendored
+Unity Project/**/*.xml linguist-vendored
+Unity Project/**/*.txt linguist-vendored
+Unity Project/**/*.csv linguist-vendored
+Unity Project/**/*.ipynb linguist-vendored
+Unity Project/**/*.html linguist-vendored
+Unity Project/**/*.py linguist-vendored
